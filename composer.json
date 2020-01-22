@@ -1,0 +1,17 @@
+{
+    "name": "zane/redis",
+    "description": "redis backage",
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+       
+    },
+    "autoload": {
+        "psr-4": {
+            "zane\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
